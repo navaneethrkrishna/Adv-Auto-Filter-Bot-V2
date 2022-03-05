@@ -15,7 +15,7 @@ APP_ID = int(os.environ.get("APP_ID"))
 
 API_HASH = "API_HASH"
 
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "BOT_TOKEN"("5122028833:AAF3MmT8Ern6oq4vzVjb01QGrZR728cog1c")
 
 DB_URI = "DB_URI"
 
